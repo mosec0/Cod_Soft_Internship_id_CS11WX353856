@@ -30,7 +30,7 @@ The objectives of this training are to:
 
 During the training, I will be working on several projects to apply the skills and knowledge gained. These projects include:
 
--To Do List = Post on Likedin: https://shorturl.at/KrRpn
+-To Do List
 - Contact Book
 - Pssword Generatot
 - Rock Paper Scissors Game
